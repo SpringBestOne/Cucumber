@@ -31,6 +31,6 @@ public class Runner {
 
     dryRun iki secenek vardir
     dryRun=true; dersek testimizi calistirmadan eksik adımlari bize verir
-    dryRun=false; testlerimizi driver ile calistirir.
+    dryRun=false; testlerimizi driver ile calistirir....
      */
 }
